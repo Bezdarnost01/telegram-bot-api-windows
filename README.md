@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telegram Bot API
 
 The Telegram Bot API provides an HTTP API for creating [Telegram Bots](https://core.telegram.org/bots).
@@ -96,3 +97,7 @@ and continue sending requests to the new server as usual.
 <a name="license"></a>
 ## License
 `Telegram Bot API server` source code is licensed under the terms of the Boost Software License. See [LICENSE_1_0.txt](http://www.boost.org/LICENSE_1_0.txt) for more information.
+=======
+# telegram-bot-api-windows
+Compiled local telegram bot api project for Windows 10
+>>>>>>> d09f79667ab26f39af0f60dd4956eaaba4e8998c
